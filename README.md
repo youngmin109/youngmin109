@@ -1,29 +1,36 @@
-<h1 align="center">👋 Hi there! I'm BaeYoungmin!</h1>
+<div align="center">
+<br><br><br>
+
+<!-- Don't just fork or copy it. Star it, please 🥺  -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+%EB%B0%B0%EC%98%81%EB%AF%BC.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br><br>
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=youngmin109&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=28)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin109&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
+
+<a href="https://github.com/youngmin109/github-stats">
+ <img src="https://raw.githubusercontent.com/youngmin109/github-stats/output/generated/languages.svg" width=51% />
+</a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=youngmin109&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+-->
+
+![](./profile-3d-contrib/profile-night-green.svg)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=youngmin109&layout=compact&langs_count=20&theme=dark)
+
+<br><br><br>
 
 <p align="center">
-  <b>AI 소프트웨어를 공부하며 일본 IT 취업을 준비하는 학생입니다.</b> <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungmin109&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
+  <a href="https://wakatime.com/@a9ec6db8-5ed2-44b8-8c20-d69280103581"><img src="https://wakatime.com/badge/user/a9ec6db8-5ed2-44b8-8c20-d69280103581.svg" alt="Total time coded since Jun 22 2020" /></a>
+  <a href="mailto:youngmin109@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=youngmin109@gmail.com"/></a>&nbsp
+ <br/><br/>
+  <a href="https://dev-youngmin.tistory.com/"><img src="https://img.shields.io/badge/tistory blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dev-youngmin.tistory.com/"/></a>&nbsp
+  <a href="https://qiita.com/youngmin109"><img src="https://img.shields.io/badge/Qiita blog-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/youngmin109"/></a>&nbsp
 </p>
 
----
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngmin109&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngmin109&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
+</div>
