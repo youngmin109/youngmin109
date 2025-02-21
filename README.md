@@ -6,21 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+%EB%B0%B0%EC%98%81%EB%AF%BC.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=youngmin109&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=28)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin109&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
 
-<a href="https://github.com/youngmin109/github-stats">
- <img src="https://raw.githubusercontent.com/youngmin109/github-stats/output/generated/languages.svg" width=51% />
-</a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=youngmin109&theme=dark&hide_border=true)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=youngmin109&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
--->
-
-![](./profile-3d-contrib/profile-night-green.svg)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=youngmin109&layout=compact&langs_count=20&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin109&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=8&card_width=360)
 
 <br><br><br>
 
