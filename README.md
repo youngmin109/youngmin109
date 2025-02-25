@@ -13,6 +13,6 @@
 
 <br><br><br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
